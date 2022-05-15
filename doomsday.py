@@ -1,9 +1,9 @@
 Day_of_the_week = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 Doomsday = {1:3, 2:28, 3:14, 4:4, 5:9, 6:6, 7:11, 8:8, 9:5, 10:10, 11:7, 12:12}
 
-Date = int(input("Date"))
-Month = int(input("Month Number"))
-Year = int(input("Year"))
+Date = int(input("تاريخ اليوم"))
+Month = int(input("تاريخ الشهر"))
+Year = int(input("السنه"))
 
 
 
@@ -28,4 +28,4 @@ if Year%4==0 and Year%100!=0:
 
 Doom = (abs(Doomsday[Month] - Date) + Doom) % 7
 
-print ("The given date falls on", Day_of_the_week[Doom])
+print ("اليوم هو ", Day_of_the_week[Doom])
