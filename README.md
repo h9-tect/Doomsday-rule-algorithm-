@@ -4,7 +4,7 @@ drawing inspiration from Lewis Carroll's perpetual calendar algorithm.[3][4][5] 
 
 The algorithm is simple enough that it can be computed mentally. Conway could usually give the correct answer in under two seconds. To improve his speed, he practiced his calendrical calculations on his computer, which was programmed to quiz him with random dates every time he logged on
 
-#خوارزمية يوم الحساب 
+# خوارزمية يوم الحساب 
 (جون هورتون كونواي- John Horton Conway).
 
 وهو أستاذ فخري في الرياضيات في جامعة برينستون، لديه خبرة في نظرية العقد ونظرية الأعداد ونظرية الألعاب التوافقية.
